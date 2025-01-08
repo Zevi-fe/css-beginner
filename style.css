@@ -1,18 +1,22 @@
-.meme {
-  height: 200px;
-  width: 200px;
-}
-h1 {
-  text-align: center;
-  font-size: 3rem;
-  color: white;
-}
-
-p {
-  text-align: center;
-  font-size: 35px;
-  color: white;
-}
 body {
   background-color: black;
+}
+
+h1 {
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+
+.meme {
+  color: white;
+  margin-left: 25%;
+  margin-top: 100px;
+  width: 50%;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
+
+.meme-img {
+  border: 5px solid white;
+  width: 100%;
 }
